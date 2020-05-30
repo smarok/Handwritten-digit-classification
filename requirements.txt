@@ -1,0 +1,5 @@
+List of required Python libraries:
+tensorflow
+tkinter
+PIL
+win32gui
