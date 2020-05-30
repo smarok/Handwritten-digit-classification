@@ -5,6 +5,6 @@ This project consists of 3 files: GUI.py, Model.py and digit_classification.h5
 
 1. GUI.py: It contains code for GUI application which allows user draw digit with cursor and displays predicted digit along with accuracy.
 
-2. Model.py: It contains code for training a simple Convolutional neural network or CNN which uses the MNST training data set. It saves the trained model for later use.
+2. Model.py: It contains code for training a simple Convolutional neural network to classify digits which uses the MNST training data set. It saves the trained model for later use.
 
 3. digit_classification.h5: This is the trained deep learning model which we load in GUI.py file.
